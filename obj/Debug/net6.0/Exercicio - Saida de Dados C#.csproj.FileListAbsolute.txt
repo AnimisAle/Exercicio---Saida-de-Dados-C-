@@ -1,0 +1,15 @@
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\bin\Debug\net6.0\Exercicio - Saida de Dados C#.exe
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\bin\Debug\net6.0\Exercicio - Saida de Dados C#.deps.json
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\bin\Debug\net6.0\Exercicio - Saida de Dados C#.runtimeconfig.json
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\bin\Debug\net6.0\Exercicio - Saida de Dados C#.dll
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\bin\Debug\net6.0\ref\Exercicio - Saida de Dados C#.dll
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\bin\Debug\net6.0\Exercicio - Saida de Dados C#.pdb
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\obj\Debug\net6.0\Exercicio - Saida de Dados C#.csproj.AssemblyReference.cache
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\obj\Debug\net6.0\Exercicio - Saida de Dados C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\obj\Debug\net6.0\Exercicio - Saida de Dados C#.AssemblyInfoInputs.cache
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\obj\Debug\net6.0\Exercicio - Saida de Dados C#.AssemblyInfo.cs
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\obj\Debug\net6.0\Exercicio - Saida de Dados C#.csproj.CoreCompileInputs.cache
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\obj\Debug\net6.0\Exercicio - Saida de Dados C#.dll
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\obj\Debug\net6.0\ref\Exercicio - Saida de Dados C#.dll
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\obj\Debug\net6.0\Exercicio - Saida de Dados C#.pdb
+C:\Users\55629\Desktop\Exercicio - Saida de Dados C#\obj\Debug\net6.0\Exercicio - Saida de Dados C#.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio - Saida de Dados C#/1.0.0": {
+        "runtime": {
+          "Exercicio - Saida de Dados C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio - Saida de Dados C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
